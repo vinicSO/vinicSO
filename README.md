@@ -5,10 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/vinicSO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicSO&show_icons=true&theme=white&include_all_commits=true&count_private=true#gh-light-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicSO&show_icons=true&theme=dark&include_all_commits=true&count_private=true#gh-dark-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicSO&layout=compact&langs_count=7&theme=white#gh-light-mode-only"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicSO&layout=compact&langs_count=7&theme=dark#gh-dark-mode-only"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicSO&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicSO&layout=compact&langs_count=7&theme=white"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="vinicSO-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
@@ -27,8 +25,6 @@
   <a href="mailto:vinicius.santos.oliv3ira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADciussoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/vinicSO/vinicSO/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
