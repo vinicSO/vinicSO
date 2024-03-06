@@ -1,14 +1,17 @@
 ## Olá!! Eu sou o Vinícius Santos 👋
 
-- 🔭 Trabalhando com Desenvolvimento Web
-- 🌱 Estou estudando clean code e SOLID
-
-<div align="center">
-  <a href="https://github.com/vinicSO">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicSO&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicSO&layout=compact&langs_count=7&theme=white"/>
+<div align="center"><br>
+  <span>🔭 Trabalhando com Desenvolvimento Web</span>
+  &#124;
+  <span>🌱 Estou estudando clean code e SOLID</span>
 </div>
-<div style="display: inline_block"><br>
+
+<div align="center"><br>
+  <a href="https://github.com/vinicSO">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinicSO&show_icons=true&theme=white&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicSO&layout=compact&langs_count=7&theme=white&locale=pt-br"/>
+</div>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="vinicSO-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="vinicSO-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="vinicSO-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
@@ -21,7 +24,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="mailto:vinicius.santos.oliv3ira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADciussoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
