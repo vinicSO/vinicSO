@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/vinicius__so/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="instagram logo"  />
   </a>
-  <a href="discordapp.com/users/660901418156163093" target="_blank">
+  <a href="https://www.discordapp.com/users/660901418156163093" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
   <a href="mailto:vinicius.santos.oliv3ira@gmail.com" target="_blank">
