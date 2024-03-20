@@ -40,7 +40,7 @@
   <a href="discordapp.com/users/660901418156163093" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="discord logo"  />
   </a>
-  <a href="vinicius.santos.oliv3ira@gmail.com" target="_blank">
+  <a href="mailto:vinicius.santos.oliv3ira@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/viníciussoliveira/" target="_blank">
